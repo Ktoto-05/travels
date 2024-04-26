@@ -201,7 +201,7 @@ a:hover{
     margin-top: 7%;
 }
 .block4{
-    background-image: url(./image/fon2.png);
+    background-image: url('../image/fon2.png');
     background-position: center center;
     width: 100%;
     background-size: cover;
@@ -344,7 +344,7 @@ a:hover{
     justify-content: center;
 }
 .block6{
-    background-image: url(./image/италия21fon4.png);
+    background-image: url('../image/италия21fon4.png');
     width: 100%;
     background-position: center center;
     display: flex;
