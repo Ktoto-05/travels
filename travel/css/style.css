@@ -13,7 +13,7 @@
 }
 .header{
     width: 100%;
-    background-image: url(./image/image\3fon1.png);
+    background-image: url(./image/image3fon1.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -344,7 +344,7 @@ a:hover{
     justify-content: center;
 }
 .block6{
-    background-image: url(./image/италия2\1fon4.png);
+    background-image: url(./image/италия21fon4.png);
     width: 100%;
     background-position: center center;
     display: flex;
